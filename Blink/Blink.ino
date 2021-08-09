@@ -1,5 +1,6 @@
 /*
-This is for site one deployment, delay 200ms.
+Tampnes site v1.0.0
+time delay: 200ms
 */
 
 // the setup function runs once when you press reset or power the board

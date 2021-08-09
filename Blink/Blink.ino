@@ -1,6 +1,6 @@
 /*
-Site-Tampines v1.0.0
-Time delay: 100ms
+Site-Tampines v1.0.1
+Time delay: 50ms
 */
 
 // the setup function runs once when you press reset or power the board
@@ -14,5 +14,5 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(100);                       // wait for a second
+  delay(50);                       // wait for a second
 }
